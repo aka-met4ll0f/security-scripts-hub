@@ -1,12 +1,12 @@
-# scripts-hub
+# security-scripts-hub
 
 Hub de proyectos de ciberseguridad y automatizacion.
 
 ## Proyectos
-- [netsec-traffic-forensics](https://github.com/aka-met4ll0f/netsec-traffic-forensics)
-- [osint-recon-toolkit](https://github.com/aka-met4ll0f/osint-recon-toolkit)
-- [data-automation-utils](https://github.com/aka-met4ll0f/data-automation-utils)
-- [offensive-security-lab](https://github.com/aka-met4ll0f/offensive-security-lab)
+- [pcap-forensics](https://github.com/aka-met4ll0f/pcap-forensics)
+- [recon-toolkit](https://github.com/aka-met4ll0f/recon-toolkit)
+- [sec-automation-utils](https://github.com/aka-met4ll0f/sec-automation-utils)
+- [pentest-lab-scripts](https://github.com/aka-met4ll0f/pentest-lab-scripts)
 
 ## Autor
 - met4ll0f
