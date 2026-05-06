@@ -1,6 +1,6 @@
 # security-scripts-hub
 
-Hub de proyectos de ciberseguridad y automatizacion.
+Hub de proyectos de ciberseguridad y automatización.
 
 ## Proyectos
 - [pcap-forensics](https://github.com/aka-met4ll0f/pcap-forensics)
@@ -13,4 +13,4 @@ Hub de proyectos de ciberseguridad y automatizacion.
 - https://github.com/aka-met4ll0f
 
 ## Disclaimer
-Uso unicamente autorizado por el propietario del objetivo o en laboratorio/CTF.
+Uso únicamente autorizado por el propietario del objetivo o en laboratorio/CTF.
