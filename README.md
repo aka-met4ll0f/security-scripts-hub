@@ -1,5 +1,7 @@
 # security-scripts-hub
 
+![Tipo](https://img.shields.io/badge/Tipo-Portfolio-purple)
+
 ## Descripción
 Hub de proyectos de ciberseguridad y automatización.
 
