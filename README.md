@@ -1,5 +1,6 @@
 # security-scripts-hub
 
+## Descripción
 Hub de proyectos de ciberseguridad y automatización.
 
 ## Proyectos
@@ -12,5 +13,5 @@ Hub de proyectos de ciberseguridad y automatización.
 - met4ll0f
 - https://github.com/aka-met4ll0f
 
-## Disclaimer
+## Aviso legal
 Uso únicamente autorizado por el propietario del objetivo o en laboratorio/CTF.
