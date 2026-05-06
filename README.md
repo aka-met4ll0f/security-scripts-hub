@@ -8,7 +8,8 @@ Hub de proyectos de ciberseguridad y automatización.
 ## Proyectos
 - [pcap-forensics](https://github.com/aka-met4ll0f/pcap-forensics)
 - [recon-toolkit](https://github.com/aka-met4ll0f/recon-toolkit)
-- [sec-automation-utils](https://github.com/aka-met4ll0f/sec-automation-utils)
+- [username-generator](https://github.com/aka-met4ll0f/username-generator)
+- [web-screenshot-reporter](https://github.com/aka-met4ll0f/web-screenshot-reporter)
 - [pentest-lab-scripts](https://github.com/aka-met4ll0f/pentest-lab-scripts)
 
 ## Resumen rápido
@@ -16,7 +17,8 @@ Hub de proyectos de ciberseguridad y automatización.
 |---|---|---|---|
 | `pcap-forensics` | Tráfico y forense de red | Python, Bash | Reportes de captura y evidencia de tráfico |
 | `recon-toolkit` | Recon DNS/Web/Nmap | Python, Bash | Inventario técnico y hallazgos de reconocimiento |
-| `sec-automation-utils` | Automatización operativa | Python, Bash | Archivos de usuarios, capturas y reportes |
+| `username-generator` | Automatización de usuarios | Python | Archivos de usuarios normalizados y auditables |
+| `web-screenshot-reporter` | Evidencia visual web | Bash | Capturas por lote y visor HTML |
 | `pentest-lab-scripts` | Laboratorio ofensivo controlado | Python | PoCs y reportes para entornos autorizados |
 
 ## Autor
