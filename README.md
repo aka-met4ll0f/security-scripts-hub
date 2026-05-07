@@ -1,29 +1,29 @@
 # security-scripts-hub
 
-![Tipo](https://img.shields.io/badge/Tipo-Portfolio-purple)
+![Type](https://img.shields.io/badge/Type-Portfolio-purple)
 
-## Descripción
-Hub de proyectos de ciberseguridad y automatización.
+## Description
+Hub repository for cybersecurity and automation projects.
 
-## Proyectos
+## Projects
 - [pcap-forensics](https://github.com/aka-met4ll0f/pcap-forensics)
 - [recon-toolkit](https://github.com/aka-met4ll0f/recon-toolkit)
 - [username-generator](https://github.com/aka-met4ll0f/username-generator)
 - [web-screenshot-reporter](https://github.com/aka-met4ll0f/web-screenshot-reporter)
 - [pentest-lab-scripts](https://github.com/aka-met4ll0f/pentest-lab-scripts)
 
-## Resumen rápido
-| Repositorio | Enfoque | Lenguajes | Resultado principal |
+## Quick summary
+| Repository | Focus | Languages | Main outcome |
 |---|---|---|---|
-| `pcap-forensics` | Tráfico y forense de red | Python, Bash | Reportes de captura y evidencia de tráfico |
-| `recon-toolkit` | Recon DNS/Web/Nmap | Python, Bash | Inventario técnico y hallazgos de reconocimiento |
-| `username-generator` | Automatización de usuarios | Python | Archivos de usuarios normalizados y auditables |
-| `web-screenshot-reporter` | Evidencia visual web | Bash | Capturas por lote y visor HTML |
-| `pentest-lab-scripts` | Laboratorio ofensivo controlado | Python | PoCs y reportes para entornos autorizados |
+| `pcap-forensics` | Network traffic & forensics | Python, Bash | Capture reports and traffic evidence |
+| `recon-toolkit` | DNS/Web/Nmap recon | Python, Bash | Technical inventory and recon findings |
+| `username-generator` | Username automation | Python | Normalized and auditable username files |
+| `web-screenshot-reporter` | Web visual evidence | Bash | Batch screenshots and HTML viewer |
+| `pentest-lab-scripts` | Controlled offensive lab | Python | PoCs and reports for authorized environments |
 
-## Autor
+## Author
 - met4ll0f
 - https://github.com/aka-met4ll0f
 
-## Aviso legal
-Uso únicamente autorizado por el propietario del objetivo o en laboratorio/CTF.
+## Legal Notice
+Use only with explicit target-owner authorization or in a controlled lab/CTF.
